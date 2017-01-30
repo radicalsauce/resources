@@ -15,6 +15,7 @@ Please reach out to Tom (tom@entelo.com) or Shane (shane@entelo.com) if you have
 ### Coding
 
 * [Codecademy](https://www.codecademy.com/) - Learn to code interactively
+* [Code School](https://www.codeschool.com/) - Learn by doing
 
 ### SQL
 
